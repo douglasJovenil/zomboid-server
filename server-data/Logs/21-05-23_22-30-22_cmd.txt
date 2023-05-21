@@ -1,0 +1,3 @@
+[21-05-23 22:30:22.793] 76561198433892438 "douglascastilhos" ISLogSystem.writeLog @ 8327,11814,0.
+[21-05-23 22:30:22.798] 76561198433892438 "douglascastilhos" ISLogSystem.writeLog @ 8327,11814,0.
+[21-05-23 22:59:55.481] 76561198433892438 "douglascastilhos" ISLogSystem.writeLog @ 8327,11814,0.

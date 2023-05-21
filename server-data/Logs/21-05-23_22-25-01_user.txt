@@ -1,0 +1,23 @@
+[21-05-23 22:25:01.125] added connection index=0 191.152.221.158.
+[21-05-23 22:25:03.106] 76561198433892438 "douglasJovenil" attempting to join.
+[21-05-23 22:25:03.140] 76561198433892438 "douglasJovenil" was added.
+[21-05-23 22:25:03.141] 76561198433892438 "douglasJovenil" allowed to join.
+[21-05-23 22:25:21.898] 76561198433892438 "douglasJovenil" removed connection index=0.
+[21-05-23 22:26:04.945] added connection index=0 4.157.172.162.
+[21-05-23 22:26:06.911] 76561198433892438 "dogros" attempting to join.
+[21-05-23 22:26:06.943] 76561198433892438 "dogros" was added.
+[21-05-23 22:26:06.943] 76561198433892438 "dogros" allowed to join.
+[21-05-23 22:26:25.383] 76561198433892438 "dogros" removed connection index=0.
+[21-05-23 22:27:08.475] added connection index=0 193.12.216.164.
+[21-05-23 22:27:10.305] 76561198433892438 "dogros jovenil" attempting to join.
+[21-05-23 22:27:10.341] 76561198433892438 "dogros jovenil" was added.
+[21-05-23 22:27:10.342] 76561198433892438 "dogros jovenil" allowed to join.
+[21-05-23 22:27:28.768] 76561198433892438 "dogros jovenil" removed connection index=0.
+[21-05-23 22:30:00.243] added connection index=0 1.221.154.168.
+[21-05-23 22:30:02.127] 76561198433892438 "douglascastilhos" attempting to join.
+[21-05-23 22:30:02.162] 76561198433892438 "douglascastilhos" was added.
+[21-05-23 22:30:02.162] 76561198433892438 "douglascastilhos" allowed to join.
+[21-05-23 22:30:11.239] 76561198433892438 "douglascastilhos" attempting to join used queue.
+[21-05-23 22:30:18.880] player douglascastilhos loading time was: 7364 ms.
+[21-05-23 22:30:22.531] 76561198433892438 "douglascastilhos" fully connected (8327,11814,0).
+[21-05-23 22:59:55.515] user douglascastilhos died at (8327,11814,0) (non pvp).

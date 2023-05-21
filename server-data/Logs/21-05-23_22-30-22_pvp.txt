@@ -1,0 +1,2 @@
+[21-05-23 22:30:22.529][INFO] user "douglascastilhos" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[21-05-23 22:59:55.513][INFO] user "douglascastilhos" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
