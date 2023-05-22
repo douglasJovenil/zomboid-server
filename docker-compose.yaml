@@ -5,7 +5,7 @@ services:
     image: cyrale/project-zomboid
     restart: unless-stopped
     environment:
-      SERVER_NAME: "dogros"
+      SERVER_NAME: "prikazanya"
       ADMIN_PASSWORD: "gay"
     ports:
       - "8766:8766/udp"
