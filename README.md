@@ -1,0 +1,1 @@
+chown -R 777 server-data/
